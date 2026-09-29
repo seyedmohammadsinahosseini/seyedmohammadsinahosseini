@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=ff7b72&center=true&vCenter=true&width=880&height=44&lines=%24%20focus%20%E2%86%92%20Artificial%20Intelligence%20%C2%B7%20Software%20Engineering;%24%20status%20%E2%86%92%20building%20intelligent%20systems..." alt="Typing headlines" />
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=3fb950&center=true&vCenter=true&width=880&height=44&lines=%24%20focus%20%E2%86%92%20Artificial%20Intelligence%20%C2%B7%20Software%20Engineering;%24%20status%20%E2%86%92%20building%20intelligent%20systems..." alt="Typing headlines" />
 </p>
 
 ### 🚀 About Me
