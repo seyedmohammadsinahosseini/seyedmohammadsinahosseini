@@ -12,7 +12,7 @@
 
 I build systems that watch, decide, and respond — from camera-based recognition systems to AI-powered tools that understand natural-language commands. My work sits at the intersection of software engineering, machine learning, and real-world problem solving.
 
-🔭 &nbsp;I'm currently working on <font color="red">**a real-time mentoring platform**</font>  
+🔭 &nbsp;I'm currently working on <span style="color=red">**a real-time mentoring platform**</span>  
 🌱 &nbsp;I'm currently learning **PyTorch and OpenCV**  
 👯 &nbsp;I'm looking to collaborate on **Intelligent Mental Health Assistant**  
 😄 &nbsp;Pronouns: **he/ him**
