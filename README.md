@@ -1,18 +1,18 @@
 <p align="center">
   <a href="https://github.com/seyedmohammadsinahosseini">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=570&text=Hello!%20I'm%20Sina" alt="Hello! I&#39;m Sina" />
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=c7c7c7&fontSize=54&height=90&width=570&text=Hello!%20I'm%20Sina" alt="Hello! I&#39;m Sina" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=a371f7&center=true&vCenter=true&width=900&height=44&lines=Computer%20Science%20%C2%B7%20Artificial%20Intelligence%20%C2%B7%20Software%20Engineering;Building%20intelligent%20software%20that%20understands%20context%2C%20interacts%20naturally%2C%20and%20solves%20meaningful%20problems." alt="Typing headlines" />
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=ff7b72&center=true&vCenter=true&width=880&height=44&lines=%24%20focus%20%E2%86%92%20Artificial%20Intelligence%20%C2%B7%20Software%20Engineering;%24%20status%20%E2%86%92%20building%20intelligent%20systems..." alt="Typing headlines" />
 </p>
 
 ### 🚀 About Me
 
 I build systems that watch, decide, and respond — from camera-based recognition systems to AI-powered tools that understand natural-language commands. My work sits at the intersection of software engineering, machine learning, and real-world problem solving.
 
-🔭 &nbsp;I'm currently working on <span style="color=red">**a real-time mentoring platform**</span>  
+🔭 &nbsp;I'm currently working on **a real-time mentoring platform**  
 🌱 &nbsp;I'm currently learning **PyTorch and OpenCV**  
 👯 &nbsp;I'm looking to collaborate on **Intelligent Mental Health Assistant**  
 😄 &nbsp;Pronouns: **he/ him**
@@ -54,7 +54,7 @@ I build systems that watch, decide, and respond — from camera-based recognitio
 ### 📈 Contribution Graph
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph-gold-gamma.vercel.app/graph?username=seyedmohammadsinahosseini&bg_color=00000000&color=2ea043&line=2ea043&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
+  <img width="100%" src="https://github-readme-activity-graph-gold-gamma.vercel.app/graph?username=seyedmohammadsinahosseini&bg_color=00000000&color=c7c7c7&line=c7c7c7&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
 </p>
 
 ### 💭 Dev Quote
