@@ -12,10 +12,10 @@
 
 I build systems that watch, decide, and respond — from camera-based recognition systems to AI-powered tools that understand natural-language commands. My work sits at the intersection of software engineering, machine learning, and real-world problem solving.
 
-<p font=Caveat&weight=600&size=26&pause=1000&color=3fb950&center=true&vCenter=true&width=880&height=44&lines=%24%20focus%20%E2%86%92%20Artificial%20Intelligence%20%C2%B7%20Software%20Engineering;%24%20status%20%E2%86%92%20building%20intelligent%20systems...">🔭 &nbsp;I'm currently working on **a real-time mentoring platform**</p>
-<p >🌱 &nbsp;I'm currently learning **PyTorch and OpenCV**  </p>
-<p >👯 &nbsp;I'm looking to collaborate on **Intelligent Mental Health Assistant**  </p>
-<p >😄 &nbsp;Pronouns: **he/ him**</p>
+🔭 &nbsp;I'm currently working on **a real-time mentoring platform**
+🌱 &nbsp;I'm currently learning **PyTorch and OpenCV**  
+👯 &nbsp;I'm looking to collaborate on **Intelligent Mental Health Assistant**  
+😄 &nbsp;Pronouns: **he/ him**
 
 ### 🛠️ Tech Stack
 
